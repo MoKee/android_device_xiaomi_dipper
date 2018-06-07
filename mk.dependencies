@@ -4,7 +4,7 @@
     "target_path": "vendor/xiaomi/dipper"
   },
   {
-    "repository": "android_device_xiaomi_msm8998-common",
-    "target_path": "device/xiaomi/msm8998-common"
+    "repository": "android_device_xiaomi_sdm845-common",
+    "target_path": "device/xiaomi/sdm845-common"
   }
 ]
