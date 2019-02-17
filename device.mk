@@ -31,6 +31,10 @@ PRODUCT_PACKAGES += \
 # Inherit from sdm845-common
 $(call inherit-product, device/xiaomi/sdm845-common/sdm845.mk)
 
+# Device fstab
+PRODUCT_PACKAGES += \
+    fstab.qcom
+
 # Device init scripts
 PRODUCT_PACKAGES += \
     init.target.rc
