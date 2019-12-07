@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/mk_dipper.mk
+    $(LOCAL_DIR)/mokee_dipper.mk
 
 COMMON_LUNCH_CHOICES := \
     mokee_dipper-user \
